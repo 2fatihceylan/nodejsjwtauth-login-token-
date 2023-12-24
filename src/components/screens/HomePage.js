@@ -71,7 +71,7 @@ const HomePage = () =>{
 
     return(
         <div>
-            <h1>home</h1>
+            <h1>homepage</h1>
             <button onClick={logout}>logout</button>
         </div>
     )
